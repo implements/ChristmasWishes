@@ -1,0 +1,31 @@
+body {
+	font-family: "Open Sans";
+	font-size: smaller;
+	text-align: center;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #B8B8B8;
+}
+
+#title {
+	font-size: 4.5em;
+	margin-bottom: 0.3em;
+}
+
+.wish {
+	margin-bottom: 2em;
+}
+
+.title {
+	font-size: 1.2em;
+}
+
+.price {
+	font-style: italic;
+}
