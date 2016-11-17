@@ -1,145 +1,22 @@
+<!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<link rel="stylesheet" href="styles/default.css">
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+	<script src="app.js"></script>
 	<title>2016</title>
 </head>
-<body>
+<body ng-app="ChristmasApplication" ng-controller="ChristmasController">
 	<div id="title">Christmas Wishes</div>
-	
 	<div id="wishes">
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.apple.com/dk/shop/product/MK0X2ZM/A/usb-c-til-lightning-kabel-1-m" target="_blank">Apple USB-C til Lightning-kabel</a>
-			</div>
-			<div class="subtitle">
-				1 meter
-			</div>
-			<div class="price">
-				159 kr.
-			</div>
+		<div class="wish" ng-repeat="wish in wishes">
+			<div class="brand">{{wish.brand}}</div>
+			<div class="title"><a href="{{wish.url}}" target="_blank">{{wish.title}}</a></div>
+			<div class="subtitle">{{wish.details}}</div>
+			<div class="price">{{wish.price}}</div>
 		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w" target="_blank">Apple USB-C-strømforsyning</a>
-			</div>
-			<div class="subtitle">
-				61 watt
-			</div>
-			<div class="price">
-				579 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.pricerunner.dk/pl/110-3141438/Mus/Logitech-G502-Proteus-Spectrum-Sammenlign-Priser" target="_blank">Logitech G502 Proteus Spectrum</a>
-			</div>
-			<div class="subtitle">
-				
-			</div>
-			<div class="price">
-				599 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.smithoptics.com/us/Root/Men%27s/Helmets/Snow/Maze/p/H17-MZHFLGMIPS/sizeVariants" target="_blank">Smith Maze</a>
-			</div>
-			<div class="subtitle">
-				Matte Black - Medium
-			</div>
-			<div class="price">
-				799 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="https://jolioriginals.com/collections/smooth/products/smooth-macbook" target="_blank">Joli Originals Smooth Macbook Pro Sleeve</a>
-			</div>
-			<div class="subtitle">
-				Grey & Red
-			</div>
-			<div class="price">
-				€109
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://store.nike.com/dk/en_gb/pd/free-rn-distance-running-shoe/pid-11054016/pgid-11161865" target="_blank">Nike Free RN Distance</a>
-			</div>
-			<div class="subtitle">
-				Orange - Størrelse 43
-			</div>
-			<div class="price">
-				1.049 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.pricerunner.dk/pl/649-3098809/Medieafspillere/Apple-TV-32GB-%284th-Gen%29-Sammenlign-Priser" target="_blank">Apple TV</a>
-			</div>
-			<div class="subtitle">
-				4th Generation
-			</div>
-			<div class="price">
-				1.199 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.pricerunner.dk/pl/543-1209527/Kamera-Objektiver/Nikon-AF-S-DX-NIKKOR-35mm-F-1.8G-Sammenlign-Priser" target="_blank">Nikon AF-S DX NIKKOR</a>
-			</div>
-			<div class="subtitle">
-				35mm F/1.8G
-			</div>
-			<div class="price">
-				1.395 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.apple.com/designed-by-apple/" target="_blank">Designed by Apple in California</a>
-			</div>
-			<div class="subtitle">
-				Small
-			</div>
-			<div class="price">
-				$199
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.pricerunner.dk/pl/52-3264582/Spillekonsoller/Sony-Playstation-4-Pro-1TB-%28PS4%29-Sammenlign-Priser" target="_blank">Sony Playstation 4 Pro</a>
-			</div>
-			<div class="subtitle">
-				1 TB
-			</div>
-			<div class="price">
-				3.099 kr.
-			</div>
-		</div>
-		
-		<div class="wish">
-			<div class="title">
-				<a href="http://www.pricerunner.dk/pl/1469-3161919/VR-Virtual-reality/Sony-Playstation-VR-Sammenlign-Priser" target="_blank">Sony Playstation VR</a>
-			</div>
-			<div class="subtitle">
-			</div>
-			<div class="price">
-				3.699 kr.
-			</div>
-		</div>
-		
 	</div>
 </body>
 </html>
