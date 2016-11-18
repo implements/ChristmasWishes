@@ -10,7 +10,7 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 		{
 			brand: "Blizzard",
 			title: "Starcraft II: Legacy of the Void",
-			url: "http://www.pricerunner.dk/pl/129-3293946/PC-spil/Football-Manager-2017-Limited-Edition-Sammenlign-Priser",
+			url: "http://www.pricerunner.dk/pl/129-1182019/PC-spil/Starcraft-2-Legacy-of-the-Void-Sammenlign-Priser",
 			details: "PC/MAC",
 			price: "269 kr."
 		},
