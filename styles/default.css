@@ -22,6 +22,10 @@ a:hover {
 	margin-bottom: 2em;
 }
 
+.brand {
+	font-size: 0.9em;
+}
+
 .title {
 	font-size: 1.2em;
 }
