@@ -32,7 +32,7 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			brand: "Joli Originals",
 			title: "Smooth Macbook Pro (Late 2016) Sleeve",
 			url: "https://jolioriginals.com/collections/smooth/products/smooth-macbook",
-			details: "Grey Leather & Red Lining",
+			details: "Brown Leather & Lining",
 			price: "849 kr."
 		},
 		{
