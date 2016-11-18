@@ -8,6 +8,13 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: "159 kr."
 		},
 		{
+			brand: "Sports Interactive",
+			title: "Football Manager 2017",
+			url: "http://www.pricerunner.dk/pl/129-3293946/PC-spil/Football-Manager-2017-Limited-Edition-Sammenlign-Priser",
+			details: "Limited Edition",
+			price: "325 kr."
+		},
+		{
 			brand: "Apple",
 			title: "USB-C Strømforsyning",
 			url: "http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w",
