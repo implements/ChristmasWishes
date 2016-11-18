@@ -8,6 +8,13 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: "159 kr."
 		},
 		{
+			brand: "Kikkerland",
+			title: "Magnetic Hourglass",
+			url: "https://areastore.dk/products/kikkerland-magnetic-hourglass",
+			details: "",
+			price: "159 kr."
+		},
+		{
 			brand: "Blizzard",
 			title: "Starcraft II",
 			url: "http://www.pricerunner.dk/pl/129-1182019/PC-spil/Starcraft-2-Legacy-of-the-Void-Sammenlign-Priser",
@@ -54,7 +61,7 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			title: "Free RN Distance",
 			url: "http://store.nike.com/dk/en_gb/pd/free-rn-distance-running-shoe/pid-11054016/pgid-11161865",
 			details: "Orange - Størrelse 43",
-			price: "1.049 kr."
+			price: "1.050 kr."
 		},
 		{
 			brand: "Apple",
