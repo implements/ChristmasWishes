@@ -23,17 +23,17 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 		},
 		{
 			brand: "SuitSupply",
-			title: "Brown Tie",
+			title: "Brunt Slips",
 			url: "http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w",
-			details: "Wool Silk",
-			price: "579 kr."
+			details: "Uld/Silke",
+			price: "419 kr."
 		},
 		{
 			brand: "Apple",
 			title: "USB-C Strømforsyning",
 			url: "http://eu.suitsupply.com/en/tiessub/brown-tie/D162053.html",
 			details: "61 watt",
-			price: "419 kr."
+			price: "579 kr."
 		},
 		{
 			brand: "Logitech",
