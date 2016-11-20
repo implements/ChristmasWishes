@@ -23,9 +23,9 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 		},
 		{
 			brand: "SuitSupply",
-			title: "Brunt Slips",
+			title: "Brown Tie",
 			url: "http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w",
-			details: "Uld/Silke",
+			details: "Wool Silk",
 			price: "419 kr."
 		},
 		{
