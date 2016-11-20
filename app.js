@@ -1,13 +1,6 @@
 angular.module('ChristmasApplication', []).controller('ChristmasController', function($scope) {	
 	$scope.wishes = [
 		{
-			brand: "Apple",
-			title: "USB-C til Lightning-kabel",
-			url: "http://www.apple.com/dk/shop/product/MK0X2ZM/A/usb-c-til-lightning-kabel-1-m",
-			details: "1 meter",
-			price: "159 kr."
-		},
-		{
 			brand: "Kikkerland",
 			title: "Magnetic Hourglass",
 			url: "https://areastore.dk/products/kikkerland-magnetic-hourglass",
