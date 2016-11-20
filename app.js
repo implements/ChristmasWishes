@@ -25,14 +25,14 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			brand: "SuitSupply",
 			title: "Brown Tie",
 			url: "http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w",
-			details: "61 watt",
+			details: "Wool Silk",
 			price: "579 kr."
 		},
 		{
 			brand: "Apple",
 			title: "USB-C Strømforsyning",
 			url: "http://eu.suitsupply.com/en/tiessub/brown-tie/D162053.html",
-			details: "Wool Silk",
+			details: "61 watt",
 			price: "419 kr."
 		},
 		{
