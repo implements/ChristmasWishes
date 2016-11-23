@@ -92,6 +92,13 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: '3.099 kr.'
 		},
 		{
+			brand: 'Apple',
+			title: 'Watch - Series 2',
+			url: 'http://www.apple.com/dk/shop/buy-watch/apple-watch/space-grey-aluminium-sort-sportsrem?preSelect=false&product=MP022DH/A&step=detail',
+			details: '38 mm / Space Grey Aluminium & Sort Sportsrem',
+			price: '3.299 kr.'
+		},
+		{
 			brand: 'Sony',
 			title: 'Playstation VR',
 			url: 'http://www.pricerunner.dk/pl/1469-3161919/VR-Virtual-reality/Sony-Playstation-VR-Sammenlign-Priser',
