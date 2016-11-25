@@ -36,13 +36,6 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: '579 kr.'
 		},
 		{
-			brand: 'Logitech',
-			title: 'G502 Proteus Spectrum',
-			url: 'http://www.pricerunner.dk/pl/110-3141438/Mus/Logitech-G502-Proteus-Spectrum-Sammenlign-Priser',
-			details: '',
-			price: '599 kr.'
-		},
-		{
 			brand: 'Smith',
 			title: 'Maze',
 			url: 'http://www.smithoptics.com/us/Root/Men%27s/Helmets/Snow/Maze/p/H17-MZHFLGMIPS/sizeVariants',
@@ -55,13 +48,6 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			url: 'https://jolioriginals.com/collections/smooth/products/smooth-macbook',
 			details: 'Brown Leather & Lining',
 			price: '849 kr.'
-		},
-		{
-			brand: 'Nike',
-			title: 'Free RN Distance',
-			url: 'http://store.nike.com/dk/en_gb/pd/free-rn-distance-running-shoe/pid-11054016/pgid-11161865',
-			details: 'Orange - Størrelse 43',
-			price: '1.050 kr.'
 		},
 		{
 			brand: 'Apple',
