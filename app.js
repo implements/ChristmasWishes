@@ -82,7 +82,7 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			title: 'Watch',
 			url: 'http://www.apple.com/dk/shop/buy-watch/apple-watch/space-grey-aluminium-sort-sportsrem?preSelect=false&product=MP022DH/A&step=detail',
 			details: 'Series 2 - 42 mm',
-			price: '3.299 kr.'
+			price: '3.499 kr.'
 		},
 		{
 			brand: 'Sony',
