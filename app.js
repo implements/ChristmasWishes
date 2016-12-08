@@ -36,6 +36,13 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: '579 kr.'
 		},
 		{
+			brand: 'Holm',
+			title: 'Trækasser',
+			url: 'https://www.coolshop.dk/produkt/holm-trkasser-st-a-3/AC75FB',
+			details: '3 stk.,
+			price: '399 kr.'
+		},
+		{
 			brand: 'Smith',
 			title: 'Maze',
 			url: 'http://www.smithoptics.com/us/Root/Men%27s/Helmets/Snow/Maze/p/H17-MZHFLGMIPS/sizeVariants',
