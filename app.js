@@ -39,7 +39,7 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			brand: 'Holm',
 			title: 'Trækasser',
 			url: 'https://www.coolshop.dk/produkt/holm-trkasser-st-a-3/AC75FB',
-			details: '3 stk.,
+			details: '3 stk.',
 			price: '399 kr.'
 		},
 		{
