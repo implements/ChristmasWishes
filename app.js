@@ -1,13 +1,6 @@
 angular.module('ChristmasApplication', []).controller('ChristmasController', function($scope) {	
 	$scope.wishes = [
 		{
-			brand: 'Kikkerland',
-			title: 'Magnetic Hourglass',
-			url: 'https://areastore.dk/products/kikkerland-magnetic-hourglass',
-			details: '',
-			price: '159 kr.'
-		},
-		{
 			brand: 'Blizzard',
 			title: 'Starcraft II',
 			url: 'http://www.pricerunner.dk/pl/129-1182019/PC-spil/Starcraft-2-Legacy-of-the-Void-Sammenlign-Priser',
@@ -22,6 +15,13 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			price: '325 kr.'
 		},
 		{
+			brand: 'Holm',
+			title: 'Trækasser',
+			url: 'https://www.coolshop.dk/produkt/holm-trkasser-st-a-3/AC75FB',
+			details: '3 stk.',
+			price: '399 kr.'
+		},
+		{
 			brand: 'SuitSupply',
 			title: 'Brown Tie',
 			url: 'http://eu.suitsupply.com/en/tiessub/brown-tie/D162053.html',
@@ -34,13 +34,6 @@ angular.module('ChristmasApplication', []).controller('ChristmasController', fun
 			url: 'http://www.apple.com/dk/shop/product/MNF72Z/A/apple-usb-c-str%C3%B8mforsyning-p%C3%A5-61-w',
 			details: '61 watt',
 			price: '579 kr.'
-		},
-		{
-			brand: 'Holm',
-			title: 'Trækasser',
-			url: 'https://www.coolshop.dk/produkt/holm-trkasser-st-a-3/AC75FB',
-			details: '3 stk.',
-			price: '399 kr.'
 		},
 		{
 			brand: 'Smith',
