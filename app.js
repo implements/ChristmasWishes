@@ -1,5 +1,12 @@
 angular.module('ChristmasApplication', []).controller('ChristmasController', function($scope) {	
-	$scope.wishes = [
+	
+	$scope.wishes2017 = [
+		{
+			
+		}
+	]
+	
+	$scope.wishes2016 = [
 		{
 			brand: 'Blizzard',
 			title: 'Starcraft II',
