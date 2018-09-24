@@ -7,11 +7,46 @@
         "price": "319 kr."
     },
     {
+        "brand": "Audio Technica",
+        "title": "ATH-ANC33iS QuietPoint",
+        "url": "http://cdon.dk/hjemme-elektronik/audio-technica-ath-anc33is-quietpoint-hovedtelefoner-nc-sort-p25205077",
+        "details": "Sort",
+        "price": "599 kr."
+    },
+    {
+        "brand": "PrAna",
+        "title": "Zion",
+        "url": "https://www.zalando.dk/prana-cargobukser-charcoal-pf642e009-c11.html",
+        "details": "Mørkegrå - 32/30",
+        "price": "699 kr."
+    },
+    {
         "brand": "Osprey",
-        "title": "Talon 11",
-        "url": "https://www.friluftsland.dk/rygsaekke/dagtursrygsaekke/osprey-talon-11-s17-ml-martian-red",
-        "details": "Martian Red - M/L",
-        "price": "899 kr."
+        "title": "Talon 22",
+        "url": "https://www.friluftsland.dk/rygsaekke/dagtursrygsaekke/osprey-talon-22-s17-sm-martian-red",
+        "details": "Martian Red - Medium/Large",
+        "price": "999 kr."
+    },
+    {
+        "brand": "Nike",
+        "title": "Flyknit Trainer",
+        "url": "https://store.nike.com/dk/en_gb/pd/flyknit-trainer-shoe/pid-12001400/pgid-12181869",
+        "details": "Cirrus Blue/White/Black - 43",
+        "price": "1.350 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.elgiganten.dk/product/pc-tablets/smart-home/HUEE27STARTV3/philips-hue-startpakke-huee27startv3",
+        "details": "White & Color Ambiance Startsæt - E27",
+        "price": "1.499 kr."
+    },
+    {
+        "brand": "Nudie Jeans",
+        "title": "Lean Dean",
+        "url": "https://www.nudiejeans.com/product/lean-dean-dry-japan-selvage",
+        "details": "Dry Japan Selvage - 32/32",
+        "price": "1.600 kr."
     },
     {
         "brand": "Bose",
@@ -23,9 +58,9 @@
     {
         "brand": "Bose",
         "title": "QuietComfort 35",
-        "url": "https://www.power.dk/hoejttalere-og-lyd/hovedtelefoner/bose-qc35-wireless-headphones-black/p-260176/",
+        "url": "https://www.elgiganten.dk/product/tv-radio/hovedtelefoner/QC35BK/bose-quietcomfort-35-around-ear-hovedtelefoner-sort",
         "details": "Sort",
-        "price": "2.599 kr."
+        "price": "2.699 kr."
     },
     {
         "brand": "Apple",
@@ -33,5 +68,19 @@
         "url": "https://www.apple.com/dk/shop/buy-watch/apple-watch/space-grey-aluminium-sort-sportsrem?preSelect=false&product=MQKV2DH/A&step=detail",
         "details": "Series 3 - 42 mm",
         "price": "3.099 kr."
+    },
+    {
+        "brand": "Dell",
+        "title": "UltraSharp",
+        "url": "https://www.bj-trading.dk/bjshop/default.asp?side=info.asp&vare=626668",
+        "details": "U2717D - 27\"",
+        "price": "3.695 kr."
+    },
+    {
+        "brand": "Dell",
+        "title": "UltraSharp",
+        "url": "https://www.dustinhome.dk/product/5010977468/ultrasharp-u3417w",
+        "details": "U3417W - 34\"",
+        "price": "6.395 kr."
     }
 ]
