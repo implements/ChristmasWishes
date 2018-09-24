@@ -1,0 +1,23 @@
+[
+    {
+        "brand": "Persol",
+        "title": "PO3019S",
+        "url": "https://www.sunglassesshop.dk/persol/po3019s/havana-2431/49054",
+        "details": "Brun Havana",
+        "price": "1.316 kr."
+    },
+    {
+        "brand": "Bose",
+        "title": "QuietComfort 35",
+        "url": "https://www.elgiganten.dk/product/mobil-gps/handsfree-og-headset-med-mikrofon/QC352BK/bose-quietcomfort-tradlose-hovedtelefoner-ii-sort",
+        "details": "Sort",
+        "price": "2.799 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "Watch",
+        "url": "https://www.apple.com/dk/shop/buy-watch/apple-watch/44mm-gps-space-grey-aluminium-sort-sportsrem",
+        "details": "Series 4 - 44 mm",
+        "price": "3.599 kr."
+    }
+]
