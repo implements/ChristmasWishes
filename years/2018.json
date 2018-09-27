@@ -1,10 +1,17 @@
 [
     {
+        "brand": "Issey Miyake",
+        "title": "L'Eau D'Issey Pour Homme Eau De Toilette",
+        "url": "https://www.matas.dk/issey-miyake-leau-dissey-pour-homme-edt-40-ml",
+        "details": "40 ml",
+        "price": "375 kr."
+    },
+    {
         "brand": "Persol",
-        "title": "PO3019S",
-        "url": "https://www.sunglassesshop.dk/persol/po3019s/havana-2431/49054",
-        "details": "Brun Havana",
-        "price": "1.316 kr."
+        "title": "PO3019S 24/31",
+        "url": "https://www.eyerim.dk/persol-suprema-po3019s-24-31-11414/",
+        "details": "55/18/145 - Large",
+        "price": "899 kr."
     },
     {
         "brand": "Bose",
