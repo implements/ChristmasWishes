@@ -1,17 +1,31 @@
 [
     {
-        "brand": "Issey Miyake",
-        "title": "L'Eau D'Issey Pour Homme Eau De Toilette",
-        "url": "https://www.matas.dk/issey-miyake-leau-dissey-pour-homme-edt-40-ml",
-        "details": "40 ml",
-        "price": "375 kr."
+        "brand": "Nudie Jeans",
+        "title": "Roger",
+        "url": "https://www.nudiejeans.com/product/roger-slub-offwhite",
+        "details": "Offwhite - Medium",
+        "price": "300 kr."
     },
     {
         "brand": "Issey Miyake",
-        "title": "L'Eau D'Issey Pour Homme Eau De Toilette",
-        "url": "https://www.matas.dk/issey-miyake-leau-dissey-pour-homme-edt-75-ml",
-        "details": "75 ml",
+        "title": "L'Eau D'Issey Pour Homme",
+        "url": "https://www.matas.dk/issey-miyake-leau-dissey-pour-homme-gaveaeske",
+        "details": "Gaveæske",
         "price": "480 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "USB-C Strømforsyning",
+        "url": "https://www.apple.com/dk/shop/product/MRW22ZM/A/usb-c-str%C3%B8mforsyning-p%C3%A5-61-w",
+        "details": "61 W",
+        "price": "579 kr."
+    },
+    {
+        "brand": "Joli Originals",
+        "title": "Smooth Macbook Sleeve",
+        "url": "https://jolioriginals.com/collections/smooth/products/smooth-macbook",
+        "details": "13\" Macbook Pro (2016-2018) - Brown/Brown",
+        "price": "819 kr."
     },
     {
         "brand": "Persol",
@@ -21,6 +35,19 @@
         "price": "899 kr."
     },
     {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.elgiganten.dk/product/husholdning/belysning/HUEE27STARTP/philips-hue-white-and-color-ambiance-startsat-e27",
+        "details": "White & Color Ambiance Startsæt - E27",
+        "price": "1.299 kr."
+    },
+    {
+        "brand": "Sony",
+        "title": "Playstation VR",
+        "url": "https://www.elgiganten.dk/product/gaming/vr-virtual-reality-gaming/PSVRCAMBUNDV2/playstation-vr-headset-2018-ps4-kamera-og-vr-worlds",
+        "details": "Headset, Camera & VR Worlds",
+        "price": "1.444 kr."
+    },    {
         "brand": "Sony",
         "title": "Playstation 4 Pro",
         "url": "https://www.power.dk/gaming-og-underholdning/konsol/konsol/playstation-4-pro-white/p-632942/",
