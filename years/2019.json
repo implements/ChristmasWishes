@@ -1,0 +1,30 @@
+[
+    {
+        "brand": "Nikka Whisky Distilling",
+        "title": "From the Barrel",
+        "url": "https://www.whisky.dk/shop/nikka-from-the-7794p.html",
+        "details": "Single Malt & Grain Whisky",
+        "price": "359 kr."
+    },
+    {
+        "brand": "The Glenlivet Distillery",
+        "title": "18 Years of Age",
+        "url": "https://www.whiskyeksperten.dk/glenlivet-18-aar-whisky.html",
+        "details": "Single Malt Scotch Whisky",
+        "price": "599 kr."
+    },
+    {
+        "brand": "New Mags",
+        "title": "Tom Ford Coffee Table Book",
+        "url": "https://www.luxoliving.dk/new-mags-tom-ford-bog/",
+        "details": "",
+        "price": "999 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "Designed by Apple in California",
+        "url": "https://www.apple.com/dk/shop/product/MLXG2/designed-by-apple-in-california-330-x-413-mm",
+        "details": "260 x 324 mm",
+        "price": "1.799 kr."
+    }
+]
