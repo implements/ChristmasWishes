@@ -1,5 +1,12 @@
 [
     {
+        "brand": "Rúngne",
+        "title": "Chalk Bag",
+        "url": "https://rungne.com/products/rungne-chalkbag-black",
+        "details": "Dark Denim",
+        "price": "$35"
+    },
+    {
         "brand": "Suit Supply",
         "title": "Brown Tie",
         "url": "https://eu.suitsupply.com/en/ties/brown-tie/D171092.html",
@@ -36,9 +43,9 @@
     },
     {
         "brand": "Sennheiser",
-        "title": "Game One Gaming Headset",
+        "title": "Game One",
         "url": "https://www.coolshop.dk/produkt/sennheiser-game-one-gaming-headset-sort/AF9CE6/",
-        "details": "Black",
+        "details": "Gaming Headset - Black",
         "price": "995 kr."
     },
     {
