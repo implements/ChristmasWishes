@@ -21,6 +21,13 @@
         "price": "299 kr."
     },
     {
+        "brand": "Google",
+        "title": "Chromecast",
+        "url": "https://www.elgiganten.dk/product/tv-billede/medieafspiller/10014/chromecast-3-gen",
+        "details": "3rd Generation",
+        "price": "320 kr."
+    },
+    {
         "brand": "Nikka Whisky Distilling",
         "title": "From the Barrel",
         "url": "https://www.whisky.dk/shop/nikka-from-the-7794p.html",
@@ -53,6 +60,13 @@
         "title": "Tom Ford",
         "url": "https://www.luxoliving.dk/new-mags-tom-ford-bog/",
         "details": "Coffee Table Book",
+        "price": "999 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Hue White Ambiance",
+        "url": "https://www.elgiganten.dk/product/smart-home/smart-belysning/HUEAMBE27KITP/philips-hue-white-ambiance-startsat-e27",
+        "details": "Start Set E27",
         "price": "999 kr."
     },
     {
