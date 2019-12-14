@@ -35,13 +35,6 @@
         "price": "589 kr."
     },
     {
-        "brand": "Samsung",
-        "title": "860 Evo MZ-76E500B",
-        "url": "https://www.bj-trading.dk/bjshop/default.asp?side=info.asp&vare=864682",
-        "details": "500 GB",
-        "price": "620 kr."
-    },
-    {
         "brand": "Microsoft",
         "title": "Surface Keyboard",
         "url": "https://www.elgiganten.dk/product/pc-tablets/mus-tastatur/MSSWS200009/microsoft-surface-tradlost-tastatur-lys-gra",
@@ -60,6 +53,13 @@
         "title": "Game One",
         "url": "https://www.coolshop.dk/produkt/sennheiser-game-one-gaming-headset-sort/AF9CE6/",
         "details": "Gaming Headset",
+        "price": "995 kr."
+    },
+    {
+        "brand": "Samsung",
+        "title": "860 Evo MZ-76E1T0B",
+        "url": "https://www.bj-trading.dk/bjshop/default.asp?side=info.asp&vare=864669",
+        "details": "1 TB",
         "price": "995 kr."
     },
     {
