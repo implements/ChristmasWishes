@@ -1,17 +1,17 @@
 [
     {
+        "brand": "Anker",
+        "title": "PowerPort III Nano",
+        "url": "https://powerbanken.dk/produkt/anker-powerport-iii-nano-20w-usb-c-vaegoplader-hvid/",
+        "details": "20 Watt",
+        "price": "169 kr."
+    },
+    {
         "brand": "Apple",
         "title": "USB-C Strømforsyning",
         "url": "https://www.apple.com/dk/shop/product/MHJE3ZM/A/usb-c-strømforsyning-20-w",
         "details": "20 Watt",
         "price": "169 kr."
-    },
-    {
-        "brand": "Anker",
-        "title": "PowerPort III Nano",
-        "url": "https://www.proshop.dk/Mobil-Adaptere-Opladere/Anker-PowerPort-III-Nano/2880870",
-        "details": "20 Watt",
-        "price": "199 kr."
     },
     {
         "brand": "Suit Supply",
@@ -43,16 +43,9 @@
     },
     {
         "brand": "Philips",
-        "title": "Hue Color Ambiance",
-        "url": "https://www.elgiganten.dk/product/smart-home/smart-belysning/46732/philips-hue-white-and-color-ambiance-startpakke-8718699701352",
-        "details": "Start Set E27",
-        "price": "999 kr."
-    },
-    {
-        "brand": "New Mags",
-        "title": "Tom Ford",
-        "url": "https://www.luxoliving.dk/new-mags-tom-ford-bog/",
-        "details": "Coffee Table Book",
+        "title": "Hue Color & Ambiance",
+        "url": "https://www.power.dk/hus-og-fritid/elmaterialer-og-belysning/belysning-og-lommelygter/smart-belysning/startsaet-og-smarthub/philips-hue-wca-a60-e27-startsaet/p-1108065",
+        "details": "3-Pack Starter Kit E27",
         "price": "999 kr."
     },
     {
@@ -61,6 +54,13 @@
         "url": "https://www.apple.com/dk/shop/product/MLXG2/designed-by-apple-in-california-330-x-413-mm",
         "details": "260 x 324 mm",
         "price": "1.799 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "iPad Mini",
+        "url": "https://www.apple.com/dk/shop/buy-ipad/ipad-mini/64gb-guld-wifi",
+        "details": "64 GB Wi-Fi",
+        "price": "3.399 kr."
     },
     {
         "brand": "Sony",
