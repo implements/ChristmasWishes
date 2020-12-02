@@ -35,6 +35,13 @@
         "price": "529 kr."
     },
     {
+        "brand": "Philips",
+        "title": "Hue Color & Ambiance",
+        "url": "https://www.proshop.dk/Smart-Home/Philips-Hue-Color-2xE27-Paerer-Starter-Kit-Richer-Colors-Switch-BT/2791912",
+        "details": "2-Pack Starter Kit E27",
+        "price": "863 kr."
+    },
+    {
         "brand": "Amazon",
         "title": "Kindle Paperwhite 4",
         "url": "https://www.elgiganten.dk/product/pc-tablets/tablet-og-ipad/175189/amazon-kindle-paperwhite-ebogslaser-8gb",
@@ -46,13 +53,6 @@
         "title": "860 Evo MZ-76E1T0B",
         "url": "https://www.komplett.dk/product/975808/hardware/lagring/harddiskssd/ssd-25/samsung-860-evo-1tb-ssd",
         "details": "1 TB",
-        "price": "999 kr."
-    },
-    {
-        "brand": "Philips",
-        "title": "Hue Color & Ambiance",
-        "url": "https://www.power.dk/hus-og-fritid/elmaterialer-og-belysning/belysning-og-lommelygter/smart-belysning/startsaet-og-smarthub/philips-hue-wca-a60-e27-startsaet/p-1108065",
-        "details": "3-Pack Starter Kit E27",
         "price": "999 kr."
     },
     {
