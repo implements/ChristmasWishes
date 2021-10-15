@@ -1,0 +1,30 @@
+[
+    {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.elgiganten.dk/product/hjem-have/el-belysning/lamper-belysning/led-strips/philips-hue-lightstrip-plus-8718699703424/180916",
+        "details": " Lightstrip Plus",
+        "price": "455 kr."
+    },
+    {
+        "brand": "Logitech",
+        "title": "G Pro Wireless",
+        "url": "https://www.elgiganten.dk/product/computer-kontor/computertilbehor/mus-tastatur/mus/logitech-g-pro-wireless-gaming-mus/LTGPROMOUSEWL",
+        "details": "Gaming Mouse",
+        "price": "779 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "Designed by Apple in California",
+        "url": "https://www.apple.com/dk/shop/product/MLXG2/designed-by-apple-in-california-330-x-413-mm",
+        "details": "260 x 324 mm",
+        "price": "1.799 kr."
+    },
+    {
+        "brand": "BMW",
+        "title": "i4 M50",
+        "url": "https://www.bmw.dk/da/alle_modeller/bmw-i/i4/2021/bmw-i4-oversigt.html",
+        "details": "Black Sapphire Metallic",
+        "price": "563.200 kr."
+    }
+]
