@@ -15,6 +15,13 @@
     },
     {
         "brand": "Apple",
+        "title": "AirPods",
+        "url": "https://www.apple.com/dk/shop/product/MME73ZM/A",
+        "details": "3rd Generation",
+        "price": "1.549 kr."
+    },
+    {
+        "brand": "Apple",
         "title": "Designed by Apple in California",
         "url": "https://www.apple.com/dk/shop/product/MLXG2/designed-by-apple-in-california-330-x-413-mm",
         "details": "260 x 324 mm",
