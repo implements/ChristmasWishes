@@ -7,11 +7,18 @@
         "price": "455 kr."
     },
     {
+        "brand": "Apple",
+        "title": "MagSafe",
+        "url": "https://www.compumail.dk/da/p/apple-magsafe-pack-ekstern-batteripakke-999165934",
+        "details": "Battery Pack",
+        "price": "689 kr."
+    },
+    {
         "brand": "Logitech",
         "title": "G Pro Wireless",
-        "url": "https://www.elgiganten.dk/product/computer-kontor/computertilbehor/mus-tastatur/mus/logitech-g-pro-wireless-gaming-mus/LTGPROMOUSEWL",
+        "url": "https://www.computersalg.dk/i/4832704/logitech-gaming-mouse-g-pro-mus-h%C3%B8jre-og-venstreh%C3%A5ndet-optisk-tr%C3%A5dl%C3%B8s-lightspeed-tr%C3%A5dl%C3%B8s-modtager-usb",
         "details": "Gaming Mouse",
-        "price": "779 kr."
+        "price": "743 kr."
     },
     {
         "brand": "Apple",
