@@ -24,8 +24,15 @@
         "brand": "Nikon",
         "title": "AF-S Nikkor",
         "url": "https://www.photografica.com/nikkor-afs-85-1-8-g-17298.html",
-        "details": "85mm F1.8G",
+        "details": "85mm - F1.8G",
         "price": "3.495 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "iPhone 13 Mini",
+        "url": "https://www.apple.com/dk/shop/buy-iphone/iphone-13",
+        "details": "Midnight - 256 GB",
+        "price": "7.099 kr."
     },
     {
         "brand": "Audi",
