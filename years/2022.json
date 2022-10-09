@@ -1,1 +1,24 @@
+[
+    {
+        "brand": "Apple",
+        "title": "Magsafe Charger",
+        "url": "https://www.refix.dk/strom-og-kabler/apple-magsafe-oplader/",
+        "details": "",
+        "price": "275 kr."
+    },
+    {
+        "brand": "Twelve South",
+        "title": "AirFly",
+        "url": "https://dk.bazta.com/twelve-south-airfly-bluetooth-wireless-audio-transmitter",
+        "details": "Wireless Transmitter",
+        "price": "315 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "MagSafe Battery Pack",
+        "url": "https://www.compumail.dk/da/p/apple-magsafe-pack-ekstern-batteripakke-999165934",
+        "details": "",
+        "price": "689 kr."
+    }
+]
 
