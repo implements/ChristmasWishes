@@ -14,6 +14,13 @@
         "price": "315 kr."
     },
     {
+        "brand": "Audio-Technica",
+        "title": "ATH-ANC100BT",
+        "url": "https://www.thomann.de/dk/audio_technica_ath_anc100bt.htm",
+        "details": "In-Ear Headphones",
+        "price": "344 kr."
+    },
+    {
         "brand": "Apple",
         "title": "MagSafe Battery Pack",
         "url": "https://www.compumail.dk/da/p/apple-magsafe-pack-ekstern-batteripakke-999165934",
@@ -21,4 +28,3 @@
         "price": "689 kr."
     }
 ]
-
