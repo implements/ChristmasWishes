@@ -14,6 +14,13 @@
         "price": "315 kr."
     },
     {
+        "brand": "Suit Supply",
+        "title": "Black Tie",
+        "url": "https://suitsupply.com/en-dk/men/accessories/ties/tiessub/black-tie/D221032.html",
+        "details": "Pure Silk",
+        "price": "339 kr."
+    },
+    {
         "brand": "Audio-Technica",
         "title": "ATH-ANC100BT",
         "url": "https://www.thomann.de/dk/audio_technica_ath_anc100bt.htm",
@@ -23,8 +30,8 @@
     {
         "brand": "Apple",
         "title": "MagSafe Battery Pack",
-        "url": "https://www.compumail.dk/da/p/apple-magsafe-pack-ekstern-batteripakke-999165934",
+        "url": "https://cdon.dk/hjemme-elektronik/apple-magsafe-batteripack-vit-p93707002",
         "details": "",
-        "price": "689 kr."
+        "price": "799 kr."
     }
 ]
