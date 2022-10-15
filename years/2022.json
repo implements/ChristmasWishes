@@ -1,5 +1,12 @@
 [
     {
+        "brand": "Kodak",
+        "title": "Instant Print 2.1 x 3.4\"",
+        "url": "https://www.elgiganten.dk/product/computer-kontor/printere-kontor/tilbehor-til-printer/printer-fotopapir/kodak-mini-papirkassette-kocar2x3/152918",
+        "details": "KOCAR2X3",
+        "price": "169 kr."
+    },
+    {
         "brand": "Apple",
         "title": "Magsafe Charger",
         "url": "https://www.refix.dk/strom-og-kabler/apple-magsafe-oplader/",
@@ -26,6 +33,13 @@
         "url": "https://www.thomann.de/dk/audio_technica_ath_anc100bt.htm",
         "details": "In-Ear Headphones",
         "price": "344 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.elgiganten.dk/product/hjem-have/el-belysning/lamper-belysning/led-strips/philips-hue-lightstrip-plus-8718699703424/180916",
+        "details": " Lightstrip Plus",
+        "price": "476 kr."
     },
     {
         "brand": "Apple",
