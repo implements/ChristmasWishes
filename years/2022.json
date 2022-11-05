@@ -2,9 +2,9 @@
     {
         "brand": "Apple",
         "title": "Magsafe Charger",
-        "url": "https://www.refix.dk/strom-og-kabler/apple-magsafe-oplader/",
+        "url": "https://www.licotronic.com/apple-magsafe-charger/cat-p/c/p1001484126",
         "details": "",
-        "price": "275 kr."
+        "price": "277 kr."
     },
     {
         "brand": "Twelve South",
@@ -12,13 +12,6 @@
         "url": "https://dk.bazta.com/twelve-south-airfly-bluetooth-wireless-audio-transmitter",
         "details": "Wireless Transmitter",
         "price": "315 kr."
-    },
-    {
-        "brand": "Philips",
-        "title": "Series 7000 BG7025",
-        "url": "https://dealicious.dk/barbermaskiner/1687-philips-series-7000-bg702515-kropstrimmer-8710103874669.html",
-        "details": "Bodygroom",
-        "price": "339 kr."
     },
     {
         "brand": "Suit Supply",
@@ -44,16 +37,23 @@
     {
         "brand": "Philips",
         "title": "Hue",
-        "url": "https://www.elgiganten.dk/product/hjem-have/el-belysning/lamper-belysning/led-strips/philips-hue-lightstrip-plus-8718699703424/180916",
+        "url": "https://hverdag.dk/shop/philips-hue-lightstrip-388161p.html",
         "details": " Lightstrip Plus",
-        "price": "476 kr."
+        "price": "400 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Series 7000 BG7025",
+        "url": "https://nordicelectronics.dk/shop/koeb-billig-philips-7000-series-vandafvisende-kropstrimmer-online-nemt-sikkert-hurtigt-5396p.html",
+        "details": "Bodygroom",
+        "price": "461 kr."
     },
     {
         "brand": "Apple",
         "title": "MagSafe",
-        "url": "https://cdon.dk/hjemme-elektronik/apple-magsafe-batteripack-vit-p93707002",
+        "url": "https://www.dataworld.dk/apple-magsafe-battery-pack/cat-p/c/p1002077392",
         "details": "Battery Pack",
-        "price": "799 kr."
+        "price": "789 kr."
     },
     {
         "brand": "About Vintage",
