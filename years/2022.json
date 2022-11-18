@@ -1,5 +1,12 @@
 [
     {
+        "brand": "Burton",
+        "title": "Impact Wrist Guard",
+        "url": "https://www.burton.com/dk/en/p/impact-wrist-guard/W23-103471.html",
+        "details": "Medium",
+        "price": "35 €"
+    },
+    {
         "brand": "Apple",
         "title": "Magsafe",
         "url": "https://www.licotronic.com/apple-magsafe-charger/cat-p/c/p1001484126",
@@ -11,7 +18,7 @@
         "title": "AirFly",
         "url": "https://twelvesouth.eu/products/airfly",
         "details": "Wireless Transmitter",
-        "price": "335 kr."
+        "price": "45 €"
     },
     {
         "brand": "Suit Supply",
