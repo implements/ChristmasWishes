@@ -9,7 +9,7 @@
     {
         "brand": "Apple",
         "title": "Magsafe",
-        "url": "https://www.licotronic.com/apple-magsafe-charger/cat-p/c/p1001484126",
+        "url": "https://www.pricerunner.dk/pl/528-5306720/Batterier-Opladere/Apple-MagSafe-Charger-Sammenlign-Priser",
         "details": "Charger",
         "price": "277 kr."
     },
@@ -26,7 +26,14 @@
         "url": "https://dk.gymshark.com/products/gymshark-sport-5-shorts-winter-teal-slate-blue-aw22",
         "details": "Winter Teal / Slate Blue - Medium",
         "price": "349 kr."
-    }, 
+    },    
+    {
+        "brand": "Prada",
+        "title": "Luna Rossa Black",
+        "url": "https://www.pricerunner.dk/pl/55-4578250/Parfumer/Prada-Luna-Rossa-Black-EdP-50ml-Sammenlign-Priser",
+        "details": "Eau de Parfum",
+        "price": "349 kr."
+    },
     {
         "brand": "Lexington Charlie",
         "title": "Dun Sokker",
@@ -37,28 +44,21 @@
     {
         "brand": "Philips",
         "title": "Hue",
-        "url": "https://hverdag.dk/shop/philips-hue-lightstrip-388161p.html?gmsp=1",
+        "url": "https://www.pricerunner.dk/pl/460-5227043/Belysning/Philips-Hue-Lightstrip-Plus-V4-EMEA-2m-Base-kit-Light-Strip-Sammenlign-Priser",
         "details": "Lightstrip Plus",
         "price": "400 kr."
     },
     {
-        "brand": "Prada",
-        "title": "Luna Rossa Black",
-        "url": "https://www.bangerhead.dk/prada-luna-rossa-black-edp?variant=B042518",
-        "details": "Eau de Parfum",
-        "price": "427 kr."
-    },
-    {
         "brand": "Philips",
         "title": "Series 7000 BG7025",
-        "url": "https://nordicelectronics.dk/shop/koeb-billig-philips-7000-series-vandafvisende-kropstrimmer-online-nemt-sikkert-hurtigt-5396p.html",
+        "url": "https://www.pricerunner.dk/pl/67-4956795/Barbermaskiner-Trimmere/Philips-Series-7000-BG7025-Sammenlign-Priser",
         "details": "Bodygroom",
-        "price": "428 kr."
+        "price": "458 kr."
     },
     {
         "brand": "Apple",
         "title": "MagSafe",
-        "url": "https://www.dataworld.dk/apple-magsafe-battery-pack/cat-p/c/p1002077392",
+        "url": "https://www.pricerunner.dk/pl/199-3200253757/Mobiltilbehoer/Apple-External-MagSafe-Battery-Sammenlign-Priser",
         "details": "Battery Pack",
         "price": "789 kr."
     },
