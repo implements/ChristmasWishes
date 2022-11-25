@@ -42,18 +42,18 @@
         "price": "400 kr."
     },
     {
+        "brand": "Prada",
+        "title": "Luna Rossa Black",
+        "url": "https://www.pricerunner.dk/pl/55-4578250/Parfumer/Prada-Luna-Rossa-Black-EdP-50ml-Sammenlign-Priser",
+        "details": "Eau de Parfum",
+        "price": "434 kr."
+    },
+    {
         "brand": "Philips",
         "title": "Series 7000 BG7025",
         "url": "https://www.pricerunner.dk/pl/67-4956795/Barbermaskiner-Trimmere/Philips-Series-7000-BG7025-Sammenlign-Priser",
         "details": "Bodygroom",
         "price": "449 kr."
-    },
-    {
-        "brand": "Prada",
-        "title": "Luna Rossa Black",
-        "url": "https://www.pricerunner.dk/pl/55-4578250/Parfumer/Prada-Luna-Rossa-Black-EdP-50ml-Sammenlign-Priser",
-        "details": "Eau de Parfum",
-        "price": "458 kr."
     },
     {
         "brand": "Apple",
