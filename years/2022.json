@@ -64,10 +64,17 @@
     },
     {
         "brand": "Oakley",
+        "title": "MOD1 PRO Mips",
+        "url": "https://www.oneopensky.dk/p/mod1-pro-mips-blackout-skihjelm-322677--FOS900586-02E",
+        "details": "Blackout - 55-59cm",
+        "price": "959 kr."
+    },
+    {
+        "brand": "Oakley",
         "title": "MOD3 Mips",
-        "url": "https://www.outnorth.dk/oakley/mod3-mips#Blackout",
+        "url": "https://www.skatepro.dk/316-32427.htm",
         "details": "Blackout - Medium",
-        "price": "1.087 kr."
+        "price": "1.349 kr."
     },
     {
         "brand": "Porsche",
