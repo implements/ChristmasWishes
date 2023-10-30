@@ -1,0 +1,58 @@
+[    
+    {
+        "brand": "Apple",
+        "title": "Magsafe",
+        "url": "https://www.pricerunner.dk/pl/528-5306720/Batterier-Opladere/Apple-MagSafe-Charger-Sammenlign-Priser",
+        "details": "Charger",
+        "price": "179 kr."
+    },
+    {
+        "brand": "Apple",
+        "title": "Leather Case",
+        "url": "https://www.pricerunner.dk/pl/199-3200342758/Mobiltilbehoer/Apple-Leather-Case-with-MagSafe-for-iPhone-13-mini-Sammenlign-Priser",
+        "details": "iPhone 13 Mini (Midnight)",
+        "price": "271 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "OneBlade Pro",
+        "url": "https://www.pricerunner.dk/pl/67-3202621042/Barbermaskiner-Trimmere/Philips-OneBlade-Pro-QP6541-Sammenlign-Priser",
+        "details": "QP6541",
+        "price": "345 kr."
+    },
+    {
+        "brand": "Gymshark",
+        "title": "Sport 5\" Shorts",
+        "url": https://dk.gymshark.com/products/gymshark-sport-5-shorts-plum-pink-black-aw23",
+        "details": "Plum Pink / Black (Medium)",
+        "price": "349 kr."
+    },    
+    {
+        "brand": "Caol Ila",
+        "title": "12 Years",
+        "url": https://www.pricerunner.dk/pl/1424-4148456/OEl-Spiritus/Caol-Ila-12-YO-Islay-Single-Malt-43-70-cl-Sammenlign-Priser",
+        "details": "Single Malt",
+        "price": "429 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.pricerunner.dk/pl/460-5227043/Belysning/Philips-Hue-Lightstrip-Plus-V4-EMEA-2m-Base-kit-Light-Strip-Sammenlign-Priser",
+        "details": "Lightstrip Plus",
+        "price": "465 kr."
+    },  
+    {
+        "brand": "Apple",
+        "title": "MagSafe",
+        "url": "https://www.pricerunner.dk/pl/199-3200253757/Mobiltilbehoer/Apple-External-MagSafe-Battery-Sammenlign-Priser",
+        "details": "Battery Pack",
+        "price": "899 kr."
+    },
+    {
+        "brand": "Audi",
+        "title": "RS E-Tron GT",
+        "url": "https://www.audi.dk/dk/web/da/modeller/e-tron-gt/audi-rs-e-tron-gt.html",
+        "details": "Daytona Grey Pearl",
+        "price": "1.572.990 kr."
+    }
+]
