@@ -21,18 +21,25 @@
         "price": "359 kr."
     },
     {
+        "brand": "Mühle",
+        "title": "R89",
+        "url": "https://www.proshave.dk/muhle-barbersaet-med-de-skraber-og-holder-traditional.aspx",
+        "details": "Shaving Set",
+        "price": "396 kr."
+    },
+    {
         "brand": "Philips",
         "title": "Hue",
         "url": "https://www.pricerunner.dk/pl/460-5227043/Belysning/Philips-Hue-Lightstrip-Plus-V4-EMEA-2m-Base-kit-Light-Strip-Sammenlign-Priser",
         "details": "Lightstrip Plus",
         "price": "445 kr."
-    },
+    },    
     {
         "brand": "Apple",
         "title": "HomePod Mini",
         "url": "https://www.pricerunner.dk/pl/267-5299941/Hoejtalere/Apple-HomePod-Mini-Sammenlign-Priser",
         "details": "White",
-        "price": "684 kr."
+        "price": "699 kr."
     },
     {
         "brand": "Apple",
