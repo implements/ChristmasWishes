@@ -11,15 +11,8 @@
         "title": "OneBlade Pro",
         "url": "https://www.pricerunner.dk/pl/67-3202621042/Barbermaskiner-Trimmere/Philips-OneBlade-Pro-QP6541-Sammenlign-Priser",
         "details": "QP6541",
-        "price": "333 kr."
+        "price": "369 kr."
     },    
-    {
-        "brand": "Twelve South",
-        "title": "AirFly",
-        "url": "https://www.pricerunner.dk/pl/290-3206753779/Traadloes-lyd-billedoverfoersel/Twelve-South-AirFly-SE-Sammenlign-Priser",
-        "details": "SE",
-        "price": "359 kr."
-    },
     {
         "brand": "Nudie Jeans",
         "title": "Roger",
@@ -28,19 +21,26 @@
         "price": "375 kr."
     },
     {
-        "brand": "Mühle",
-        "title": "R89",
-        "url": "https://www.proshave.dk/muhle-barbersaet-med-de-skraber-og-holder-traditional.aspx",
-        "details": "Shaving Set",
-        "price": "396 kr."
-    },
+        "brand": "Twelve South",
+        "title": "AirFly",
+        "url": "https://www.pricerunner.dk/pl/290-3206753779/Traadloes-lyd-billedoverfoersel/Twelve-South-AirFly-SE-Sammenlign-Priser",
+        "details": "SE",
+        "price": "379 kr."
+    },   
     {
         "brand": "Philips",
         "title": "Hue",
         "url": "https://www.pricerunner.dk/pl/460-5227043/Belysning/Philips-Hue-Lightstrip-Plus-V4-EMEA-2m-Base-kit-Light-Strip-Sammenlign-Priser",
         "details": "Lightstrip Plus",
-        "price": "445 kr."
-    },    
+        "price": "471 kr."
+    },        
+    {
+        "brand": "Mühle",
+        "title": "R89",
+        "url": "https://www.proshave.dk/muhle-barbersaet-med-de-skraber-og-holder-traditional.aspx",
+        "details": "Shaving Set",
+        "price": "495 kr."
+    },
     {
         "brand": "Apple",
         "title": "MagSafe",
