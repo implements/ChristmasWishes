@@ -1,0 +1,44 @@
+[    
+    {
+        "brand": "Apple",
+        "title": "Magsafe",
+        "url": "https://www.pricerunner.dk/pl/528-5306720/Batterier-Opladere/Apple-MagSafe-Charger-Sammenlign-Priser",
+        "details": "Charger",
+        "price": "228 kr."
+    },
+    {
+        "brand": "Nudie Jeans",
+        "title": "Roger",
+        "url": "https://www.nudiejeans.com/product/roger-slub-offwhite",
+        "details": "Off-White (Medium)",
+        "price": "375 kr."
+    },
+    {
+        "brand": "Philips",
+        "title": "Hue",
+        "url": "https://www.pricerunner.dk/pl/460-5227043/Belysning/Philips-Hue-Lightstrip-Plus-V4-EMEA-2m-Base-kit-Light-Strip-Sammenlign-Priser",
+        "details": "Lightstrip Plus",
+        "price": "512 kr."
+    },      
+    {
+        "brand": "Burton",
+        "title": "GORE-TEX Mittens",
+        "url": "https://www.burton.com/dk/en/p/mens-burton-gore-tex-mittens/W25-103841.html?dwvar_W25-103841_variationColor=10384109021",
+        "details": "Gray Heather (Medium)",
+        "price": "€100"
+    },
+    {
+        "brand": "Lundhags",
+        "title": "Makke Light",
+        "url": "https://www.outnorth.com/dk/varemaerker/lundhags/men-s-makke-light-pant-119981-FS464962",
+        "details": "Granite / Charcoal (50)",
+        "price": "910 kr."
+    },
+    {
+        "brand": "Audi",
+        "title": "RS E-Tron GT",
+        "url": "https://www.audi.dk/dk/web/da/modeller/e-tron-gt/audi-rs-e-tron-gt.html",
+        "details": "Daytona Grey Pearl",
+        "price": "1.572.990 kr."
+    }
+]
