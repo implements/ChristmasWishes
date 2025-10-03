@@ -1,6 +1,6 @@
 angular.module('ChristmasApplication', []).controller('ChristmasController', function($http, $scope) {	
 	
-	$http.get('./years/2024.json').success(function(response) {
+	$http.get('./years/2025.json').success(function(response) {
 		$scope.wishes = response;
 	});
 });
